@@ -12,7 +12,8 @@ namespace DotnetAlgorithm
         {
             // 알고리즘 문제 풀이 
             // 백준 문제 
-            System.Console.ReadLine();
+            string word = System.Console.ReadLine();
+            System.Console.WriteLine("입력한 단어는 : {0}", word);
         }
     }
 }
