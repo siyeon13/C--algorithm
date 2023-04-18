@@ -12,9 +12,11 @@ namespace DotnetAlgorithm
         {
             // 알고리즘 문제 풀이 
             // 백준 문제 
+            System.Console.WriteLine("입력");
             string word = System.Console.ReadLine();
             System.Console.WriteLine("입력한 단어 : " + word);   // 출력
-            System.Console.WriteLine("12345");
+           // string a = System.Console.ReadLine(); 
+
         }
     }
 }
